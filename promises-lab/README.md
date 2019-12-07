@@ -11,3 +11,9 @@ To get started, check out the instructions on [developers.google.com](https://de
 This is not an official Google product.
 
 Images from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page).
+
+## My notes
+- Using Promises - reject/resolve
+- Promises.all, Promises.race
+- Javascript Modular Pattern
+- QUnit
