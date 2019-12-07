@@ -15,3 +15,14 @@ or on [developers.google.com](https://developers.google.com/web/ilt/pwa/lab-offl
 This is not an official Google product.
 
 All images are are licensed CC0 - no attribution required.
+
+## My notes
+
+- ServiceWorker is a network proxy that can intercept fetch requests and thus provide caching.
+- Caching resources allows the app to work offline by avoiding network requests. 
+- The app can respond with a 200 status code when offline!
+
+In this lab, we
+- configured a simple service worker and cached files
+- added a manifest file for the application
+- added A2HS (Add to home screen) feature and installed the app on a mobile device
